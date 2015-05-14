@@ -1,3 +1,6 @@
+-- 2015年05月14日10:42:26
+-- 学习lua
+
 print("hello lua 1")
 
 myTable =  {
